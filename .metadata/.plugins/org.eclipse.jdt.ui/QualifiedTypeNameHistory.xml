@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.junit.rules.Timeout"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Sleeper"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxProfile"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
@@ -46,7 +44,6 @@
 <fullyQualifiedTypeName name="com.sun.xml.internal.fastinfoset.sax.Properties"/>
 <fullyQualifiedTypeName name="com.sun.xml.internal.stream.buffer.sax.Properties"/>
 <fullyQualifiedTypeName name="java.util.Enumeration"/>
-<fullyQualifiedTypeName name="System_Utilities.Constant_Values"/>
 <fullyQualifiedTypeName name="System_Utilities.ExcelUtil"/>
 <fullyQualifiedTypeName name="org.eclipse.jetty.server.session.JDBCSessionManager.Session"/>
 <fullyQualifiedTypeName name="org.openqa.jetty.jetty.servlet.AbstractSessionManager.Session"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="org.testng.Reporter"/>
 <fullyQualifiedTypeName name="junit.framework.Assert"/>
 <fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="System_Utilities.Constant_Values"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.How"/>
 </qualifiedTypeNameHistroy>

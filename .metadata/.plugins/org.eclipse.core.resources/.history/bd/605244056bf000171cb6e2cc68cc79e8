@@ -11,7 +11,7 @@ public class Login_Page {
 	public static WebElement Btn_Signin(WebDriver driver) {
 		element = driver.findElement(By.xpath("//a[@class='signin']"));
 		return element;		
-	}	
+	}
 	
 	public static WebElement Txtbx_LoginUserId(WebDriver driver) {
 		
@@ -19,7 +19,8 @@ public class Login_Page {
 		return element;
 	}
 	
-	public static WebElement Txtbx_LoginPassword(WebDriver driver) {			
+	public static WebElement Txtbx_LoginPassword(WebDriver driver) {
+		
 		element = driver.findElement(By.id("password"));
 		return element;
 	}
