@@ -1,0 +1,229 @@
+{
+  "children": [
+    {
+      "children": null,
+      "data": {
+        "id": "hm",
+        "itemType": "primary",
+        "text": "Home",
+        "visibility": "4"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "sbd",
+        "itemType": "primary",
+        "text": "Shop by Category",
+        "visibility": "4"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "fresh",
+        "logImpression": "true"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "dls",
+        "itemType": "primary",
+        "text": "Today's Deals",
+        "visibility": "4"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "sep_ya",
+        "itemType": "separator"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "yo",
+        "text": "Your Orders",
+        "visibility": "4"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "wl",
+        "text": "Your Wish List",
+        "visibility": "4"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "asl",
+        "logImpression": "true"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "ya",
+        "text": "Your Account",
+        "visibility": "4"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "ap",
+        "text": "Amazon Pay",
+        "uri": "https://www.amazon.in/gp/sva/dashboard?ref=mshop_nav_amzn_pay_android",
+        "visibility": "4"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "tt",
+        "logImpression": "true"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "tp",
+        "logImpression": "true"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "pr",
+        "logImpression": "true"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "sell",
+        "text": "Sell on Amazon",
+        "uri": "https://www.amazon.in/selling/ref=mshop_ham_android",
+        "visibility": "4"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "bia"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "sep_more",
+        "itemType": "separator"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": null,
+          "data": {
+            "id": "cprefs",
+            "itemType": "locale",
+            "text": "Country & Language"
+          }
+        },
+        {
+          "children": null,
+          "data": {
+            "id": "cc",
+            "itemType": "locale",
+            "text": "Change Country"
+          }
+        },
+        {
+          "children": null,
+          "data": {
+            "id": "not",
+            "text": "Notifications",
+            "visibility": "4"
+          }
+        },
+        {
+          "children": null,
+          "data": {
+            "id": "ocset",
+            "text": "1-Click Settings",
+            "visibility": "4"
+          }
+        },
+        {
+          "children": null,
+          "data": {
+            "id": "rate"
+          }
+        },
+        {
+          "children": null,
+          "data": {
+            "id": "la",
+            "text": "Legal & About",
+            "visibility": "4"
+          }
+        },
+        {
+          "children": null,
+          "data": {
+            "id": "sep_set",
+            "itemType": "separator",
+            "visibility": "2"
+          }
+        },
+        {
+          "children": null,
+          "data": {
+            "id": "sso"
+          }
+        }
+      ],
+      "data": {
+        "a11yLabel": "Settings button. Double tap for links to change country, sign out, and more.",
+        "id": "set",
+        "itemType": "locale",
+        "text": "Settings",
+        "visibility": "4"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "cs",
+        "text": "Customer Service",
+        "visibility": "4"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "ha"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "exit"
+      }
+    },
+    {
+      "children": null,
+      "data": {
+        "id": "devs",
+        "text": "Debug Settings"
+      }
+    }
+  ],
+  "data": {
+    "treeName": "appnav_menu_android"
+  }
+}

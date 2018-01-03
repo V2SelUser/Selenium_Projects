@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DriverExecutable&apos; to &apos;iConnectX&apos;&#x0D;&#x0A;- Original project: &apos;eDapFramework&apos;&#x0D;&#x0A;- Destination element: &apos;iConnectX&apos;&#x0D;&#x0A;- Original element: &apos;DriverExecutable&apos;" description="Copy folder" destination="=iConnectX" element1="DriverExecutable" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1512480243765" units="0" version="1.0"/>
+</session>

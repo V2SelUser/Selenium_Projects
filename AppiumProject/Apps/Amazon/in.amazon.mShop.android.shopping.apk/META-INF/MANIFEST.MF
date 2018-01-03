@@ -1,0 +1,998 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_144 (Oracle Corporation)
+
+Name: assets/juspay/v1-uber_html.jsa
+SHA1-Digest: vhBCozxgUTIbhzydfsRF+i/+87g=
+
+Name: assets/juspay/v1-config.gen.jsa
+SHA1-Digest: uN0uxkT9tOMWISnTNh7Fr5tEv7c=
+
+Name: res/layout/blackbelt_cart_v2.xml
+SHA1-Digest: dHGoD3D+j7d15NT/Hp0GT9qzL54=
+
+Name: res/anim/delay_fade_anim.xml
+SHA1-Digest: TbWRocZCEwVVT4JaAp+iJBt9B6Y=
+
+Name: res/drawable/prime_logo_scaled.png
+SHA1-Digest: a6U5NyFWdddM2jjgeN/fNkh2Ieg=
+
+Name: res/raw/associate_tag.txt
+SHA1-Digest: K6aRNfNy0gq8jQwvIpxzUX0eVf4=
+
+Name: res/drawable/description_background.xml
+SHA1-Digest: SQoSD5tBXE1QlJaQGVUeKq001x0=
+
+Name: res/drawable-xhdpi-v4/blackbelt_burger.png
+SHA1-Digest: duc3dzg0M3dECKLgbU5xSMa299Q=
+
+Name: res/drawable-xhdpi-v4/mash_ebrowser_open_button.png
+SHA1-Digest: b5i5zA1dnbVEMc3FRw9UGDEuE+Q=
+
+Name: res/drawable/circle.xml
+SHA1-Digest: Ek4RSc3jcgWkVKJwHt5Vgi/dEKw=
+
+Name: assets/juspay/asset_metadata.json
+SHA1-Digest: vyGp6PvFo4RvsFtPoIWeCReyIC8=
+
+Name: res/drawable-hdpi-v4/mash_ebrowser_open_button.png
+SHA1-Digest: ahc1KuAY6yaJ62A4GhgLUFOB1hc=
+
+Name: res/layout/netbanking_default_fragment.xml
+SHA1-Digest: YDXmdG5Wykl/LYKGURRaLZold6k=
+
+Name: res/anim/smash_transition_pop_in.xml
+SHA1-Digest: US+qzLrxVxFzmAiT4yN/7L/wH+U=
+
+Name: res/drawable-hdpi-v4/splash_logo.png
+SHA1-Digest: AzzHLH1DvgqBOQr5fo3RuEFW9w4=
+
+Name: res/drawable/search_bar_mag_glass.xml
+SHA1-Digest: QeXH/emhTxD5gcgUE4uPtwbgQIY=
+
+Name: assets/smash/navigate.js
+SHA1-Digest: Y2FzDSZPJCRy2Zst2RKZDdQ9+5E=
+
+Name: res/drawable-xhdpi-v4/juspay_axis.png
+SHA1-Digest: vIKjMpgZxm0dct2tyVSk4YsnVgs=
+
+Name: res/drawable/lower_action_bar.xml
+SHA1-Digest: /zhXndWVUsgFAcHKQ/yR/LvjkKQ=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: oFKdYFhTmE2Tv4qMZ2RjjluXAvw=
+
+Name: res/drawable/btn_gray_pressed.xml
+SHA1-Digest: Lk+eANqMwVJUoxfArEMUHgHo3Uc=
+
+Name: res/drawable-hdpi-v4/gno_back_btn_background_selector.xml
+SHA1-Digest: OF3gE6QsLAhFyLZBKzAG8CCmb+w=
+
+Name: res/drawable-xhdpi-v4/blackbelt_logo_prime.png
+SHA1-Digest: KBvBl1/dHfFJkQ+hznA/hJ3mShY=
+
+Name: res/drawable-xhdpi-v4/juspay_idbi.png
+SHA1-Digest: swkEQbZOFA2s2BHxrN6sGmaGgH8=
+
+Name: res/drawable-mdpi-v4/powered_by_google_light.png
+SHA1-Digest: qHKQXD5ecnYzLYAyAc8tf+8rNAs=
+
+Name: res/drawable-xhdpi-v4/blackbelt_logo.png
+SHA1-Digest: ww293pTp8AAa0ePKDwFnOTMqYxA=
+
+Name: assets/juspay/customAnimation/juspay_branding_animation2.png
+SHA1-Digest: 3WQdIjyJ4NJjZoKdib2++TFNr4U=
+
+Name: res/drawable-xhdpi-v4/arrow_up.png
+SHA1-Digest: m3aGiQtqCIma5YKE+2DgYTUWTBI=
+
+Name: res/drawable-ldpi-v4/mash_ebrowser_done_button.png
+SHA1-Digest: LW17odh9XEiEjqOxtnPWTLDeA7o=
+
+Name: res/layout/app_info.xml
+SHA1-Digest: SToy71DZ5gNq9+cRgjlPYpwSdJU=
+
+Name: res/layout/asin_notification_3.xml
+SHA1-Digest: JFP4RPHecFmK9CO8z41bKlaV4uU=
+
+Name: res/layout/bottom_toolbar.xml
+SHA1-Digest: 5xGnbS0EtApZMXq6rOoXaNY1egY=
+
+Name: res/drawable-xhdpi-v4/mash_ebrowser_refresh_button.png
+SHA1-Digest: EYznPFkk7kw2qPaFXDkWFXj/JYU=
+
+Name: res/drawable/aal_allow_button.xml
+SHA1-Digest: rzMrw6wx5VE07EB5L1bO6F5wChI=
+
+Name: resources.arsc
+SHA1-Digest: rm8aLX71rzpMyfyIWvkcMO+ZE0g=
+
+Name: res/anim/smash_transition_pop_out.xml
+SHA1-Digest: lde2WRHoSYgLxEMk3OQQ3FCB+pQ=
+
+Name: res/drawable/furniture.png
+SHA1-Digest: 9mPzJiqTb9vi6rHzLCiYDDxpROQ=
+
+Name: res/drawable-xhdpi-v4/juspay_scb.png
+SHA1-Digest: Kz8mMAagzKN2erLVrPLpRodI0sk=
+
+Name: res/drawable/btn_aui_silver_disabled.xml
+SHA1-Digest: LXdw7eSnJPsddayCgJIsIMaLY9I=
+
+Name: res/drawable-xhdpi-v4/juspay_ing.png
+SHA1-Digest: e00vMWXC0Yd1WcYmYMbAEjIFwkM=
+
+Name: res/drawable/amzn_favicon_blk.png
+SHA1-Digest: Dj/WfasnapiFGEMkpFtRK0yJJbs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Fe0U+iZvTF77XYE9FVSNB19lmu0=
+
+Name: res/drawable-xhdpi-v4/check_on_pressed_holo_dark.png
+SHA1-Digest: y2VRplrPhVFd3F2cy7BsPkifuic=
+
+Name: assets/juspay/customAnimation/juspay_branding_animation5.png
+SHA1-Digest: flxQHyrlQG50Oeml5zHYZm49RMU=
+
+Name: res/layout/uber_menu.xml
+SHA1-Digest: 0kfeonKKCcAPI1rnpswHn2ASW8Q=
+
+Name: res/drawable/btn_gray.xml
+SHA1-Digest: qgR7f0St8eevg631i634OdUyreg=
+
+Name: res/drawable/qtips_arrow.xml
+SHA1-Digest: SzgoujRf/R1G7RoBmf5dqGPOP9o=
+
+Name: res/color/bottom_toolbar_text_selector.xml
+SHA1-Digest: ATvv18KLEw5GL3EyMYZVmUQBGQk=
+
+Name: res/color/common_selector.xml
+SHA1-Digest: wf66B9Nb08HYV1DSM8lqiUZtpWU=
+
+Name: res/layout/uber_dialog.xml
+SHA1-Digest: q5kTeaMJp1yMEhJ/bgg+ohoH57U=
+
+Name: res/layout/juspay_secure_info.xml
+SHA1-Digest: TFUAb63IBeEX2ci/3sT9CSkl6U0=
+
+Name: res/xml/config.xml
+SHA1-Digest: swSFjVcoGRULKDy4K174aOL/CbA=
+
+Name: res/drawable-hdpi-v4/mash_ebrowser_forward_button.png
+SHA1-Digest: fDlDdROa7b/b2ryxF7gGli/J8us=
+
+Name: res/layout/password_helper_fragment.xml
+SHA1-Digest: BH3q2LZvefkWdlLmifYtDMi96C0=
+
+Name: res/raw/distribution.txt
+SHA1-Digest: XJ9zr3MzT/41DGDsB25XRNsOzaM=
+
+Name: res/drawable/approve_button_states.xml
+SHA1-Digest: 2dXPaTqcpxRO0MKkIqtvFh4apq0=
+
+Name: assets/juspay/v1-uber.jsa
+SHA1-Digest: srg0115XdiR+PcQxHmZEBWT0SvE=
+
+Name: res/drawable-xhdpi-v4/arrow_right_selected.9.png
+SHA1-Digest: Vg3u545lSqXYLUJAYCjm0g20R2g=
+
+Name: res/drawable-xhdpi-v4/gno_arrow_right.png
+SHA1-Digest: viuVZRTN3VKil0ZzBwP601DnX7c=
+
+Name: res/layout/config_activity.xml
+SHA1-Digest: zTZreObBg9wLil6rd/6qZU8HtxA=
+
+Name: res/drawable-xhdpi-v4/juspay_jk.png
+SHA1-Digest: 3Wzb29SWU1HNDwBim9aIGx5B/lw=
+
+Name: res/drawable-xhdpi-v4/search_bar_mag_glass_pressed.png
+SHA1-Digest: Ei8llx2kYCpqoW45petJs6p/C64=
+
+Name: res/drawable-xhdpi-v4/uber_float_normal.png
+SHA1-Digest: lGIDR01rShORzigBFKfGLnIFdhA=
+
+Name: res/drawable/btn_aui_gold_normal.xml
+SHA1-Digest: SdXmUPxZhMA23gBeyY2fFJbhdvY=
+
+Name: res/drawable/star_on.png
+SHA1-Digest: 7tKUj/OBtRhuLFBIcNVkqllRggs=
+
+Name: res/drawable-xhdpi-v4/juspay_citi.png
+SHA1-Digest: l8X+SX2pYl9tlWHmoD1NTNF3QJU=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: SJiVd8j+s4nkwH6sz2NTNPOxwxk=
+
+Name: res/layout/netbanking_customerid_fragment.xml
+SHA1-Digest: E3ACdcW+70I/3WThpOrQbvrMdGQ=
+
+Name: res/drawable-xhdpi-v4/juspay_hdfc.png
+SHA1-Digest: envvNLDvHkw8eQy9W60cPuyuf10=
+
+Name: assets/smash/metric.js
+SHA1-Digest: DqcX93S+30hh5UENGq/DnL8RChs=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: mSllBKo5kCPDELwChIm1PMjm7FQ=
+
+Name: res/layout/mash_activity_list_item.xml
+SHA1-Digest: 3MBJr9fqInjPuGtaeGz89EJkrRY=
+
+Name: res/anim/aal_bottom_sheet_animation_in.xml
+SHA1-Digest: RRm/oks+KIAs9+p3kjJIwdAt7tw=
+
+Name: res/drawable/btn_orange_pressed.xml
+SHA1-Digest: 6vx2w2ST+PepwEn+Q+NUx/cVM88=
+
+Name: res/drawable/action_bar_button_normal.xml
+SHA1-Digest: oPro+wR3Wj1WwOWP5bYiRTPpsN8=
+
+Name: dummy_file
+SHA1-Digest: KrDJpmjnWHfr7422kKBc3on06Gk=
+
+Name: assets/smash/weblab.js
+SHA1-Digest: t8pmUW71t1ddI+uzo0HdaWg1O6s=
+
+Name: res/drawable-mdpi-v4/mash_ebrowser_refresh_button.png
+SHA1-Digest: yinl0aJNdpbwWfUKEgtKiFGftRE=
+
+Name: res/drawable/uber_sliding_menu_shadow.xml
+SHA1-Digest: jPNXyV3ZG6POGlKYHM/wC+Xu5xk=
+
+Name: res/layout/aal_fallback_interstitial_light.xml
+SHA1-Digest: hXUXp9GeZns6YpMZOMWkzRUhvQ8=
+
+Name: res/layout/suggestions.xml
+SHA1-Digest: 5f4a1W5CdDHgSLj22wM8NzLSFO4=
+
+Name: res/layout/weblab_debug_activity.xml
+SHA1-Digest: wg2E0GE0MhF9MlNr84+k5M0+uPg=
+
+Name: res/drawable-ldpi-v4/mash_ebrowser_refresh_button.png
+SHA1-Digest: n2rMQPA8zmi+swKfu3srWkY3mac=
+
+Name: res/drawable-mdpi-v4/mash_ebrowser_done_button.png
+SHA1-Digest: Wdlc7gILGs0GgxCI7WhhHpcwnyE=
+
+Name: res/layout/signin_prompt_view.xml
+SHA1-Digest: Q6vkVT9dFsgllnp575r4Cw4UiFc=
+
+Name: res/drawable-hdpi-v4/powered_by_google_dark.png
+SHA1-Digest: z7Q54MlG+ktvfBQ8RDLgBC3JJ3Y=
+
+Name: res/layout/embedded_browser_container.xml
+SHA1-Digest: s4ZkLMLr/3i6iuC4hqXC8qqtTy8=
+
+Name: res/layout/asin_notification_2.xml
+SHA1-Digest: 07tCG4k7n//iaS3rGtz51/TiKfM=
+
+Name: res/drawable-xhdpi-v4/juspay_hsbc.png
+SHA1-Digest: 33rSy1PtJobSDWpZX52CjqjTK7U=
+
+Name: res/drawable/arrow_right.xml
+SHA1-Digest: gxNbOTGn7Y9FogrAYOA0QTZwQ8Y=
+
+Name: res/drawable-xhdpi-v4/mash_ebrowser_forward_button.png
+SHA1-Digest: 4gwI6UbbFv1TbNZbjDY7My9HllU=
+
+Name: assets/juspay/v1-acs.jsa
+SHA1-Digest: GtUpNbUE73i6ruhycoixhGvDh3g=
+
+Name: res/drawable-xxhdpi-v4/blackbelt_logo_prime.png
+SHA1-Digest: tydOmpJnY9k/Aoqc+gUup6bmA9Q=
+
+Name: res/drawable-xhdpi-v4/mash_ebrowser_back_button.png
+SHA1-Digest: Kk73J8zkJi4MPYpT0r4lOuPuRDM=
+
+Name: res/drawable/btn_aui_gold_pressed.xml
+SHA1-Digest: iNSNUqoFyJrnUBfYt6myBYRKVUk=
+
+Name: res/drawable/image_loading.png
+SHA1-Digest: uR7KBQ25cTGKwcIZ5ZlYHqJ4PUE=
+
+Name: res/drawable/menswatch.png
+SHA1-Digest: 8Yvp8ODLzrpYWTHpk9C7tUsU1oA=
+
+Name: res/drawable/action_bar_icon_pressed.xml
+SHA1-Digest: ZaReVWqqpH1Iqlus3y09RMEu8IE=
+
+Name: res/drawable/btn_gray_focused.xml
+SHA1-Digest: o0bziTldF2PqGtCCV4UGrHPYLhc=
+
+Name: res/layout/progress_bar.xml
+SHA1-Digest: EDtvH1oVu5zR97h6bgVehapqH0w=
+
+Name: res/drawable-hdpi-v4/blackbelt_logo_prime.png
+SHA1-Digest: VGFDSYq1AncEETH9GyjVZg/KjVs=
+
+Name: res/anim/in_right.xml
+SHA1-Digest: BL/aMTTNqcGpYWeXbts3x11JpIc=
+
+Name: res/drawable-xhdpi-v4/check_off_pressed_holo_dark.png
+SHA1-Digest: IfaG+4VycONi6JiyWjvm31pWvK0=
+
+Name: res/layout/single_asin_notification.xml
+SHA1-Digest: 5kDgBIS2PlFaoty4vtxk5QerG88=
+
+Name: res/drawable-xhdpi-v4/check_off_holo_dark.png
+SHA1-Digest: V8JnHoPp9U6wH2zHm/Zw053qBdk=
+
+Name: res/drawable-xxhdpi-v4/blackbelt_logo.png
+SHA1-Digest: u2i9WbjPliEkwK/ZSkcQb3qEYNI=
+
+Name: res/drawable/btn_disabled.xml
+SHA1-Digest: pkHfN9Wr+Wlia1LdBaggbhAXe88=
+
+Name: res/drawable-xhdpi-v4/rectangle.png
+SHA1-Digest: +nZ6M5/utN1HqH0JCfZuECnMpIQ=
+
+Name: res/layout/custom_waiting_dialog.xml
+SHA1-Digest: V35RlMjOKZbbJ1m21mgfHYwWZSY=
+
+Name: assets/juspay/v1-config.jsa
+SHA1-Digest: XKb08DR/KO7HHtH1ef7PwLXcl50=
+
+Name: assets/juspay/customAnimation/juspay_branding_animation3.png
+SHA1-Digest: xcqw8Fwfly2hQU1RGoZLU1qYrMQ=
+
+Name: assets/smash/preferences.js
+SHA1-Digest: ffKarxIMtU79Y9WC60zsQtVktmc=
+
+Name: assets/smash/TransitionManager.js
+SHA1-Digest: CRHo9pgkeIZiswaXtY5Snes1zCw=
+
+Name: res/drawable-hdpi-v4/search_bar_mag_glass_normal.png
+SHA1-Digest: +G81+gU5ctmhxjuTTL7Fwa1PT6w=
+
+Name: res/drawable-xhdpi-v4/check_off_disabled_holo_dark.png
+SHA1-Digest: VEoIo7i335uGQn81faLF4dzmhH4=
+
+Name: res/layout/acs_options_fragment.xml
+SHA1-Digest: G3it99TUegyb/Ohs/CW8/A6Lexg=
+
+Name: res/drawable-xhdpi-v4/powered_by_juspay_safe.png
+SHA1-Digest: aCJ2lRCY8VO/PJ3oPYhP7zpbGQY=
+
+Name: assets/cordova-mash-full-1.11.js
+SHA1-Digest: Y1jXBY9TMpg8AKvGVcRkegTbSD4=
+
+Name: res/drawable-xhdpi-v4/mash_ebrowser_done_button.png
+SHA1-Digest: ROoZBHe1RYhYsIZE55BQ0K9+L6s=
+
+Name: res/drawable/btn_check_off_selected.png
+SHA1-Digest: 7fdcRclkBOL28WLrXeZLhHk/8BQ=
+
+Name: assets/juspay/customAnimation/juspay_branding_animation4.png
+SHA1-Digest: 3PUw7+Z5EsiQvZ6PE3gcq50BVII=
+
+Name: res/drawable-v21/qtips_background.xml
+SHA1-Digest: VeMUYn/KAFPlHMQQyAnk8KtfRLI=
+
+Name: res/layout/shop_by_department.xml
+SHA1-Digest: 8sYxgDh8c1q5ywGtLEKpVC675i0=
+
+Name: res/drawable-xhdpi-v4/uber_float_mini.png
+SHA1-Digest: PCAfq1aT8uDoHc5VQ3JDN6yemQg=
+
+Name: res/layout/sso_splash_screen.xml
+SHA1-Digest: PX8P77FL3shqBAcRVxsmOXGNsdA=
+
+Name: res/drawable/blackbelt_button_background_focused.xml
+SHA1-Digest: 5uw/mKl/n32BlHs8uiAew0SnQOY=
+
+Name: res/drawable/password_button_states.xml
+SHA1-Digest: gwRloyH9B3mxVmxY0XnGDUdYUbM=
+
+Name: res/layout/activity_search_bar.xml
+SHA1-Digest: WB+MWPJ2DEha4DDkbIOSppdnHCg=
+
+Name: assets/smash/cookie.js
+SHA1-Digest: NzcOlSAFEBfl+Lmj+GPBP1zlmzU=
+
+Name: res/drawable/background_splash.xml
+SHA1-Digest: pZmyxO07VlH/VcLFaPSRHhMMWMw=
+
+Name: res/layout/otp_fragment.xml
+SHA1-Digest: b2tfvcKf23SAmHbAg0IvBMAIugY=
+
+Name: res/drawable/checkbox_white.xml
+SHA1-Digest: inJrmyBWG7A1UUSXdK1t5TBA28Q=
+
+Name: res/drawable-hdpi-v4/arrow_right_normal.9.png
+SHA1-Digest: S8P9V7JTU9y3l+/ocPnFMZByFzE=
+
+Name: res/drawable-xhdpi-v4/arrow_right_normal.9.png
+SHA1-Digest: naEcIHfzQfe2YFOHnJIpZvgPgmY=
+
+Name: res/layout/waiting_fragment.xml
+SHA1-Digest: AbxC6e70xznVFC3CA4DTeAqorOg=
+
+Name: res/drawable-xhdpi-v4/juspay_amex.png
+SHA1-Digest: h1AiUkJ8qQvtdkTvX3B+qhfGyuE=
+
+Name: res/drawable/orange_outline_round_corner_white_fill.xml
+SHA1-Digest: J8UA2Aties3fqwVkTrFT8baMTuc=
+
+Name: assets/smash/es6-promise.js
+SHA1-Digest: W6Ul1K052l0nKdU5vxLq5szRKng=
+
+Name: res/drawable-xhdpi-v4/button_arrow.png
+SHA1-Digest: +nguPCH0luAeWwG6XYKgLJXVNTg=
+
+Name: res/drawable-xhdpi-v4/check_on_focused_holo_dark.png
+SHA1-Digest: NbFTkVjxcp+Rri0v7U0RxIwOd0w=
+
+Name: res/drawable-xhdpi-v4/juspay_mastercard.png
+SHA1-Digest: J/8O4t1KTl2HctJOmEZxwUaenfs=
+
+Name: res/drawable-xhdpi-v4/check_on_disabled_focused_holo_dark.png
+SHA1-Digest: /BCiQ0F4lqJBHgpPJHphCPb+a2E=
+
+Name: res/drawable/btn_aui_silver_pressed.xml
+SHA1-Digest: puoLwt165jAL+2j8VXTOhvx0KBI=
+
+Name: res/drawable-xhdpi-v4/check_on_disabled_holo_dark.png
+SHA1-Digest: psLHUXmMt22JdjXLIs0jYsTPMos=
+
+Name: res/drawable-xhdpi-v4/juspay_vbv.png
+SHA1-Digest: dq/yc4NcHZO1L7OtpYjmZ+76e64=
+
+Name: res/layout/generic_loading.xml
+SHA1-Digest: wKsOhBGluYjkoxRDlanHro6Br2w=
+
+Name: res/drawable-xhdpi-v4/reload_pressed.png
+SHA1-Digest: uvNB6d052ZJxvqe5Uh7UcZI+M28=
+
+Name: res/drawable/btn_gold.xml
+SHA1-Digest: prHAOiNmyOG9fU7bBhnEFGryGvI=
+
+Name: res/anim/smash_transition_push_in.xml
+SHA1-Digest: V/i/lJkjWuqEPxqTwZ+WiylBZ0A=
+
+Name: res/drawable/home_search_bar_normal.xml
+SHA1-Digest: CAohGVJo/+WDnWTCMBdHt+CM7EM=
+
+Name: res/drawable-xhdpi-v4/eye_hide.png
+SHA1-Digest: K0WKSRTz/5bWNAxhEfss00SWt1Y=
+
+Name: res/drawable/vertical_half_translucent.xml
+SHA1-Digest: KssbbqBWJQGw2w4s93Rqt4DHT/Q=
+
+Name: res/layout/branding_end.xml
+SHA1-Digest: Pp46kK6EzpJPvcDfcRTCp6kmnpI=
+
+Name: res/drawable-mdpi-v4/powered_by_google_dark.png
+SHA1-Digest: /3RjevfwcdXx5i/wVMmbXKwsg6E=
+
+Name: res/drawable/black_translucent.xml
+SHA1-Digest: uU8ql8itcEoV1WhPRir7UVOl4jI=
+
+Name: res/drawable-xhdpi-v4/juspay_pnb.png
+SHA1-Digest: 9vt6j7RiGrXnfrZGi3tfT+8luv8=
+
+Name: res/drawable-xhdpi-v4/check_off_focused_holo_dark.png
+SHA1-Digest: 7TQqwL9D+uMuPWHXpnIHl4x4UXo=
+
+Name: res/drawable-xhdpi-v4/approve_unpressed.png
+SHA1-Digest: j41mw9G3jJjELddrgmWjqU/8OU4=
+
+Name: res/drawable-xhdpi-v4/splash_logo.png
+SHA1-Digest: nf4J6eGRfT7l8yxzTS4lVnQ3IrI=
+
+Name: res/drawable/btn_aui_gold_disabled.xml
+SHA1-Digest: cRHifb/+b59Oa00BRMxMR45WMGQ=
+
+Name: assets/juspay/secured-by-juspay-v2.png
+SHA1-Digest: 4cXr5U0jt3rNsyrVh7Qv3sxw8Co=
+
+Name: com/amazon/client/metrics/codec/protocol/DeviceMetricsMessage.0.
+ 1.proto
+SHA1-Digest: 2Kq4ug2qLzamLLveDOMWHcHsccI=
+
+Name: assets/smash/View.js
+SHA1-Digest: 3L/LTufpknDF7Cyy4cXirIKxO0Y=
+
+Name: res/drawable/btn_check_on_selected.png
+SHA1-Digest: aCE7lyo2rFwS5T+jcu0SW7i96qw=
+
+Name: JACK-INF/legacyMultidexInstallation.jpp
+SHA1-Digest: Js4kbuuhbWmEkzl3cUqUScBxcO8=
+
+Name: res/drawable-hdpi-v4/mash_ebrowser_refresh_button.png
+SHA1-Digest: IGUAOh2ie6tGJz6PYU+zziN0TQk=
+
+Name: res/layout/fullscreen_gallery.xml
+SHA1-Digest: wyEqa88juXeXdhkmBufE2d04oIk=
+
+Name: res/drawable-xhdpi-v4/approve_disabled.png
+SHA1-Digest: GVLbBtDSn61dLU0YdIfVhnHMQqA=
+
+Name: assets/juspay/processing.gif
+SHA1-Digest: fokkCjQpidgagHGxsbqW++XVvOU=
+
+Name: res/drawable-xhdpi-v4/btn_keyboard_key_disabled.9.png
+SHA1-Digest: olOGNk635bFhJWbJW+IGzitJGk8=
+
+Name: res/drawable/qtips_background.xml
+SHA1-Digest: yVlscOLk+c772kQ38MBO0gLqgwU=
+
+Name: assets/juspay/close.png
+SHA1-Digest: 7Sj4XrW+7WrUV0wSWfIzWNyfw48=
+
+Name: res/drawable-hdpi-v4/iss_clear_search_api_holo_light.png
+SHA1-Digest: qD1yZkaMbtHTXrJ2u7UBntQaJ0E=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_light.png
+SHA1-Digest: jMcMfX75sf6GKyBez2UG58FzIgI=
+
+Name: res/drawable/juspay_safe_branding_animation.xml
+SHA1-Digest: rsGGHNaqrQ5N/PM6gSCjhEsMZ+s=
+
+Name: res/drawable-hdpi-v4/gno_second_level_header_background.xml
+SHA1-Digest: 1D69Fk6WfrEFuTh+aMbD1SWZwnc=
+
+Name: res/drawable/dot_selected.xml
+SHA1-Digest: xmSX9RhpD3o0GZLUIfxZvSRzzco=
+
+Name: res/drawable/sub_header_background.xml
+SHA1-Digest: OWR1OvgFMYUE9MTNMt572zzc11o=
+
+Name: res/drawable-xhdpi-v4/juspay_logo_white.png
+SHA1-Digest: GFLFYRJ3Z3ueUEer/4ItZFc2/4U=
+
+Name: res/drawable/btn_gray_normal.xml
+SHA1-Digest: 03jr8ehbYx2VM2FGIiNN52UFxYM=
+
+Name: res/anim/slide_to_above.xml
+SHA1-Digest: MKZI3AAqJKCFSXhqlqMVGK6AsbY=
+
+Name: res/drawable-hdpi-v4/home_search_left_magnifier.png
+SHA1-Digest: E/GaZ30pbUiOpJ6Whsy2teo+8l4=
+
+Name: res/drawable/mobile.png
+SHA1-Digest: Q/YgqGRsGDFTU5x8NrLXE8rvJqk=
+
+Name: assets/juspay/Roboto.ttf
+SHA1-Digest: RxpFBNW+fsRaE5qd3W3SLhrmqu4=
+
+Name: res/drawable-xhdpi-v4/eye_show.png
+SHA1-Digest: wZJF6OqqLWIY4eQj6HM5QyArKfA=
+
+Name: res/drawable-xxhdpi-v4/blackbelt_cart.png
+SHA1-Digest: leWSa98GBmzaSQrJvkq8b1jxtvU=
+
+Name: res/drawable/action_bar_icon_round_corner_pressed.xml
+SHA1-Digest: sF84chh60jQVhtaybBxwkk332JE=
+
+Name: res/drawable/blackbelt_logo_prime.png
+SHA1-Digest: fO0KKst2iFrUgH33I7WybFZXG/k=
+
+Name: res/drawable/btn_orange_focused.xml
+SHA1-Digest: 2S1kpviLOIqYX8l9J2FlDAxqZC0=
+
+Name: res/drawable-hdpi-v4/gno_arrow_left.xml
+SHA1-Digest: xlUOKEsI7V2IYfmxMara+ybF2/w=
+
+Name: res/layout/juspay_webview.xml
+SHA1-Digest: 4Lv2Bm/xHAKd5iSD6F926ROgcDk=
+
+Name: res/drawable-xhdpi-v4/blackbelt_search.png
+SHA1-Digest: 6CezFmZLrlSpauG3t5jTdQpWK74=
+
+Name: res/xml/filepaths.xml
+SHA1-Digest: OaoH2YsAKcUCZDb6rUeHYvijGZU=
+
+Name: res/drawable/amzn_statsbar_icon_large.png
+SHA1-Digest: rtoBQ3a9Iuqb1Xhy+XPwa8auxHY=
+
+Name: res/drawable/btn_aui_gold.xml
+SHA1-Digest: L/6nWPRSlyEEdYrIRtuEP+uIMac=
+
+Name: res/layout/apwebviewlayout.xml
+SHA1-Digest: DiUAWF0t0pmUycFovrz1jO7uhmM=
+
+Name: res/layout/amazon_error_box.xml
+SHA1-Digest: HNInmqYyb5tdnHKbJjO/QaNzrRU=
+
+Name: assets/smash/message.js
+SHA1-Digest: x+Vl52OKKLgNxskWUGERFb+Wedc=
+
+Name: res/anim/aal_bottom_sheet_animation_out.xml
+SHA1-Digest: hTg/g2cO7ZQjsTlxxsYvOf2N0pM=
+
+Name: res/drawable-hdpi-v4/search_bar_mag_glass_pressed.png
+SHA1-Digest: xsfdeXO3Q72X18CrlcQ066fapak=
+
+Name: res/drawable/customer_id_frag_pass_field.xml
+SHA1-Digest: Nr3jV2+rn8GXbGszMGBUvEEgU3A=
+
+Name: res/layout/app_rating_dialog.xml
+SHA1-Digest: NyNCKVRXgq7N+UkiXQqJDjb59YY=
+
+Name: res/drawable/btn_default_small_selected.9.png
+SHA1-Digest: Y+WBY/noojfKOJXE2TlNenF5QbI=
+
+Name: res/drawable-xhdpi-v4/pass_pressed.png
+SHA1-Digest: 2RmLgEsFSrLMkZ4u9aMI7qKkXIw=
+
+Name: res/layout/gw_transition_screen.xml
+SHA1-Digest: F5XrTjRQsy+b/pA5ePfQ7lUjEfk=
+
+Name: res/drawable/btn_aui_silver.xml
+SHA1-Digest: PVEl7V+MQYgw8ADDGtaHz2AQDy8=
+
+Name: res/drawable-ldpi-v4/mash_ebrowser_forward_button.png
+SHA1-Digest: ySfhFHWSKVNfRjrROUmP0Tait2k=
+
+Name: res/drawable/lamp.png
+SHA1-Digest: hucxORExanmVEyIvMNqoIae7UQw=
+
+Name: res/drawable/gno_new_drawer_item_background_selector.xml
+SHA1-Digest: UggmiX2sNYqYM02SVgJzf36ruzE=
+
+Name: res/layout/maximize_fragment.xml
+SHA1-Digest: oqBdn+DUkLZ5/Kteq1vVdYWMeX4=
+
+Name: res/drawable-xhdpi-v4/otp_disabled.png
+SHA1-Digest: S9LjU50Clu709J/WPeJB4vXbxAQ=
+
+Name: res/drawable-hdpi-v4/mash_ebrowser_done_button.png
+SHA1-Digest: Im9RQbgQ/aVwoMsMgI82HVTaf2k=
+
+Name: res/drawable-xhdpi-v4/juspay_sbi.png
+SHA1-Digest: eWYOh0kTOjQqjPCNQG4q4O6b1rU=
+
+Name: res/drawable-xhdpi-v4/otp_pressed.png
+SHA1-Digest: r51DmpOLuVMraSQO9WERuZucJKA=
+
+Name: res/drawable-hdpi-v4/powered_by_google_light.png
+SHA1-Digest: goWjXwGC+QyzoW0VbJrLWKJxwsQ=
+
+Name: res/drawable/waiting_dialog_generic_bg.xml
+SHA1-Digest: dXb/0t63P9StTxHuCI9+ioFIT4g=
+
+Name: res/drawable-xhdpi-v4/home_search_left_magnifier.png
+SHA1-Digest: boM3s9qHYEy2YB/Q0xHEn1eZNbY=
+
+Name: res/drawable/btn_default_small_pressed.9.png
+SHA1-Digest: 1NqZs9GDYvJm1ICELxrq++w7JoM=
+
+Name: res/drawable-mdpi-v4/mash_ebrowser_back_button.png
+SHA1-Digest: JqIE7K7kigmVx5Rt6eHPW5Wl/Sw=
+
+Name: res/drawable-xhdpi-v4/juspay_jcb.png
+SHA1-Digest: sfYdCkFrJGrU4EO/AmKpzyL6aGY=
+
+Name: res/drawable-mdpi-v4/mash_ebrowser_open_button.png
+SHA1-Digest: tHbVk9/ovyBoNXUVQ38ZHGt+O2o=
+
+Name: res/drawable-xhdpi-v4/stars_5.png
+SHA1-Digest: X1a3waoToFCHpthD5WcxMS+xu1A=
+
+Name: res/drawable/divider_horizontal_dark.9.png
+SHA1-Digest: vNlqMS9mEu8nX36xEm14VU7Bf1Y=
+
+Name: res/layout/fragment_container.xml
+SHA1-Digest: KhyfhjQ2wm0jWSc3JeemNC3VVmw=
+
+Name: assets/juspay/customAnimation/juspay_branding_animation7.png
+SHA1-Digest: jmcXOLgp3qFzo5Rbyk0jJkRoze4=
+
+Name: res/layout/juspay_layout.xml
+SHA1-Digest: nQjjMaQ4gOAfXtSEaUCeEXEXbAg=
+
+Name: res/layout/qtips_frame_layout.xml
+SHA1-Digest: WWQle6J1xKAodVzW0JWY15LLwbE=
+
+Name: assets/smash/ImageView.js
+SHA1-Digest: 0A7bAcrqDen9dmia0Tdb7hYmrdA=
+
+Name: res/drawable/dismiss_border_on_reload_dialog.xml
+SHA1-Digest: sCv3MAkjQSrpLJ2f5+zAXy48KyQ=
+
+Name: res/anim/slide_from_below.xml
+SHA1-Digest: aQMLZRmbsegcOyQKNYocpwlpNY0=
+
+Name: res/drawable-ldpi-v4/mash_ebrowser_back_button.png
+SHA1-Digest: 4Y8/PAx1WpxlgKFeZm4EAu8KU8A=
+
+Name: res/drawable-xhdpi-v4/amazon_spinner.png
+SHA1-Digest: v0We5f7SLL+Yah9/w7yYClnGZg8=
+
+Name: res/drawable-ldpi-v4/mash_ebrowser_open_button.png
+SHA1-Digest: 4/n/xE4hb1PeTdc6FcN2ypnwsk4=
+
+Name: res/drawable-xhdpi-v4/next_button_disabled.png
+SHA1-Digest: wa22/lKUU0Dj/A8u6iJa3m8FIPE=
+
+Name: res/drawable/blackbelt_button_background.xml
+SHA1-Digest: OhVpx7Pm2iaNpIT1Awh4eqtakZY=
+
+Name: res/drawable-xhdpi-v4/amazon_header.png
+SHA1-Digest: htW2kHR9acYXqxVKgu36PE93beM=
+
+Name: res/drawable-xhdpi-v4/iss_query_builder.png
+SHA1-Digest: w35Fb3u1hGU1aJm2jBnh87FNW2I=
+
+Name: res/drawable-xhdpi-v4/otp_unpressed.png
+SHA1-Digest: Zi6EF0axAYczZfpBc9/1vHLgIS4=
+
+Name: res/drawable/otp_button_states.xml
+SHA1-Digest: MvkPM9lwLyBvjovjyUN5hI7ss5o=
+
+Name: res/anim/out_left.xml
+SHA1-Digest: xQvS1f0mhSzq8D6e5Au4xLdnOiY=
+
+Name: res/drawable/btn_icn_arrow_disabled.png
+SHA1-Digest: G6jzRRNn+BwqegYr2vSPBArvcP4=
+
+Name: res/drawable-xhdpi-v4/juspay_canara.png
+SHA1-Digest: ZzW7/wGQYLcujUiMwsLsRQkp1kE=
+
+Name: res/drawable-xhdpi-v4/juspay_diners_club.png
+SHA1-Digest: 1+SmED5Yzm+i8hCpRMppUc25B/U=
+
+Name: res/layout/action_bar.xml
+SHA1-Digest: dxwVvu+aMOBa5loeK5IwRN5hbx0=
+
+Name: res/anim/no_animation.xml
+SHA1-Digest: H2MFVXswPxMRcpBPLPLLQKQWeBo=
+
+Name: assets/juspay/godel.bks
+SHA1-Digest: 2OnmIoY0wBxtyrM1B2ffRqing9I=
+
+Name: res/drawable-mdpi-v4/mash_ebrowser_forward_button.png
+SHA1-Digest: nQ1DDJPIIFyJR+85VPLszK9NR2M=
+
+Name: res/drawable/action_bar_icon_selector.xml
+SHA1-Digest: Q+AqpwTQ7Wjc+qbMdZbFE1/ffKc=
+
+Name: res/drawable-xhdpi-v4/jp_logo_without_text.png
+SHA1-Digest: 2z2xEnya5eNcFtfi/+rtGRRfRGs=
+
+Name: res/drawable-xhdpi-v4/juspay_allahabad.png
+SHA1-Digest: VuIO492cN0yDq8a8zZ+DIuGt3ZI=
+
+Name: res/drawable/customer_id_frag_button.xml
+SHA1-Digest: VwmsCaXAecU774UWcHNIKuA5y/E=
+
+Name: res/drawable/star_off.png
+SHA1-Digest: mxqSZS24sXvLw0AHqJK7SaIUxAU=
+
+Name: res/drawable-hdpi-v4/iss_query_builder.png
+SHA1-Digest: z2F8AiFDd0mlNMmozAh/E+6TN9c=
+
+Name: res/drawable/qtips_shadow.xml
+SHA1-Digest: NgtzU+vsVGpFeVdPYAHyLhd2heU=
+
+Name: res/layout/footer.xml
+SHA1-Digest: ERYYQvdpsDm9V0R5aELKpDdFHd8=
+
+Name: res/layout/web_fragment.xml
+SHA1-Digest: NXWL6Qp4orc+draMNfX0ZxK+/RI=
+
+Name: res/layout/ask_answer_notification.xml
+SHA1-Digest: 3fykrPn6nfbs2pnMmU6D4zcKMIo=
+
+Name: assets/juspay/customAnimation/juspay_branding_animation1.png
+SHA1-Digest: MQZbmHI8+aI5Z7nfxfwlpcCazjU=
+
+Name: res/drawable-xhdpi-v4/juspay_kotak.png
+SHA1-Digest: sRdC3rmglYZUol0Lu1XVSkLzuRY=
+
+Name: res/drawable-xhdpi-v4/search_bar_mag_glass_normal.png
+SHA1-Digest: S4y+vcf+7oX4m3mDkA3LsnXHu28=
+
+Name: res/layout/root_url_activity.xml
+SHA1-Digest: xc6aJT3pnDBL1+GwCzkphN7M4jM=
+
+Name: res/layout/aal_initial_interstitial_light.xml
+SHA1-Digest: eZOGN+PxVE6abiSFRtPofScW7H8=
+
+Name: res/drawable/reload_button_states.xml
+SHA1-Digest: kyOjPJIDgzAEVt0tBqhXSI3wWkQ=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: Loen2E9/t0ziyQZlFjD5+R6crQM=
+
+Name: res/drawable-hdpi-v4/mash_ebrowser_back_button.png
+SHA1-Digest: QGYA8yPr8jnHBzJMS2vfiNF8sgc=
+
+Name: res/drawable-xhdpi-v4/juspay_iob.png
+SHA1-Digest: M2uP8CLe335e6/9W+KAajMwjFMQ=
+
+Name: res/drawable-xhdpi-v4/juspay_maestro.png
+SHA1-Digest: WWCpuOearUbJ5Gezm+sFnDW120g=
+
+Name: res/layout/vertical_separator_with_padding.xml
+SHA1-Digest: aZSGaXIHiWMF92BHyvRFTF4Y7b4=
+
+Name: res/layout/search_bar.xml
+SHA1-Digest: 6CCflbFvhTPBFmkrNXBzkcil+nk=
+
+Name: res/drawable/btn_gold_normal.xml
+SHA1-Digest: wbYMZYoHJRXwuozAI/0sIkASUJM=
+
+Name: res/drawable-xhdpi-v4/btn_keyboard_key_pressed.png
+SHA1-Digest: bLv12cJG0JFkR7kSC2TvDSLhXkk=
+
+Name: res/color/link_text_color_selector.xml
+SHA1-Digest: sNZmpXRV1/Xzg/z/XdQqamm6Szk=
+
+Name: res/drawable/btn_gold_pressed.xml
+SHA1-Digest: w2AvBNLLtRcDmKx64wdi+Z4XSPw=
+
+Name: com/amazon/client/metrics/codec/protocol/DeviceMetricsMessage.0.
+ 2.proto
+SHA1-Digest: PFRw0Fw63gobg+p85MLQIsSVkgk=
+
+Name: res/drawable-xhdpi-v4/check_on_holo_dark.png
+SHA1-Digest: 58v6E7tSyisAFLdr46RZzkPHZEo=
+
+Name: res/drawable-xxhdpi-v4/blackbelt_burger.png
+SHA1-Digest: Dk3lyDefYnnk++vZ6YXj5z0wsy0=
+
+Name: res/drawable/star_half.png
+SHA1-Digest: DohgMXViJ1H2Yks9lz+wZydGbzQ=
+
+Name: res/layout/asin_notification_4.xml
+SHA1-Digest: tU2KVqfIRoIGXRMmp7QPl+FhMs0=
+
+Name: res/drawable-xhdpi-v4/juspay_safe_cards.png
+SHA1-Digest: zSkAnfwFZxJbvCkQWDB0oVQMrD4=
+
+Name: res/drawable/error_dialog_background.xml
+SHA1-Digest: sbqew9+yE2FHHHtZbGQKAc+bpr4=
+
+Name: res/anim/smash_transition_push_out.xml
+SHA1-Digest: Rng2OS3vQ+PljEn2xBFiPpU0OCo=
+
+Name: res/drawable-xhdpi-v4/uber_button_icon.png
+SHA1-Digest: py2othB3r/zvS82M1kdt+xYlofM=
+
+Name: assets/smash/WebView.js
+SHA1-Digest: Qb4rl7MHpBS4bb3tobnbzBdvm7w=
+
+Name: res/drawable-hdpi-v4/stars_5.png
+SHA1-Digest: Jj9ong6FmmTkW8njQJ3z5yPKWno=
+
+Name: res/drawable-xhdpi-v4/blackbelt_cart.png
+SHA1-Digest: fOTfV1eQRmXwBgURu/SKJwcJnVM=
+
+Name: assets/godel.properties
+SHA1-Digest: rIwXwziRBHgczyTcvLuTR5n68no=
+
+Name: res/drawable-xhdpi-v4/iss_clear_search_api_holo_light.png
+SHA1-Digest: u4fkMnOCVeRNtSJmq59t738ZklA=
+
+Name: assets/juspay/acs_blank.html
+SHA1-Digest: 3W2gMCzmwwXUdJ3muvyM1sEpqzk=
+
+Name: res/drawable-xhdpi-v4/juspay_safe_nb.png
+SHA1-Digest: iwoH0xh9ksaS5AIUyyTHW4wrOoU=
+
+Name: res/drawable/home_search_bar_selector.xml
+SHA1-Digest: I9NwGA859ytaMWy3fY6Xr7E4x4U=
+
+Name: res/drawable-xhdpi-v4/reload_unpressed.png
+SHA1-Digest: lXgDVqNQ/2o4gbtbQ0dHLiIIWE0=
+
+Name: res/drawable/btn_white_pressed.xml
+SHA1-Digest: 0j6ByP6NxbNApo3MF1h1jN8IVTI=
+
+Name: res/drawable-xhdpi-v4/ic_reload.png
+SHA1-Digest: jM0WcbDWbluamhxvvYKUWp2xgbQ=
+
+Name: res/drawable-xhdpi-v4/pass_unpressed.png
+SHA1-Digest: NMmOCufk8KrQQR1lXLFpcbI7x4s=
+
+Name: res/drawable/action_bar_button_selector.xml
+SHA1-Digest: nBCVEO01nwn+DkWbu6xC6cbYLKk=
+
+Name: res/drawable-hdpi-v4/arrow_right_selected.9.png
+SHA1-Digest: EdMPA3wJmcaWRK2Q1Fw17wpmJuY=
+
+Name: res/layout/event_notification.xml
+SHA1-Digest: rCjayG+R6kruP01p3h4tIUyobwY=
+
+Name: res/drawable-xxhdpi-v4/gno_arrow_right.png
+SHA1-Digest: b/5jZIwnheWNEpaIiHDQVD+uXsk=
+
+Name: res/layout/qtips_text.xml
+SHA1-Digest: ZOJEIkHz8d2Jn0bZR8QOP7HkWIs=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_light.png
+SHA1-Digest: RV5U4zKeJj1X3A2cXO/0hbCjZxg=
+
+Name: res/drawable-xhdpi-v4/approve_pressed.png
+SHA1-Digest: 8hwLA5670xnABSjoYkY3R8Ro4RI=
+
+Name: assets/metrics_configuration
+SHA1-Digest: hiZaJDJojdr4Hk//z/NOB9Ao7A0=
+
+Name: res/layout/reload_alert_box.xml
+SHA1-Digest: UOh72DRUdxvVJk9L852jo0nHIsg=
+
+Name: res/color/common_arrow_selector.xml
+SHA1-Digest: AKYcXo7HoJJ36YVazYUo+iRhMVE=
+
+Name: res/drawable/btn_gold_focused.xml
+SHA1-Digest: 7rqoPlZwwL4aaWooU3WIatfNPaE=
+
+Name: res/drawable/error_dialog_placeholder.png
+SHA1-Digest: fLwkNzk3PChTxuTD592kZPgDG/o=
+
+Name: res/drawable/gno_new_drawer_greeting_background_selector.xml
+SHA1-Digest: rYsFXvAfcVp2+FbgufHHW8qP7N8=
+
+Name: res/layout/branding_start.xml
+SHA1-Digest: H6XhMCawqBbjLxFwwr2z5zp69uQ=
+
+Name: res/drawable-xxhdpi-v4/blackbelt_search.png
+SHA1-Digest: We/6D9o6GMbycqAn5+glWaSYo/U=
+
+Name: res/layout/nav_list_item.xml
+SHA1-Digest: oSfh5Cuy+3NQUM2IMbUkF3VNSos=
+
+Name: res/layout/search_panel.xml
+SHA1-Digest: d1t7jOUWbaYrzdb2w5dTsoQbqlE=
+
+Name: res/drawable-xhdpi-v4/pass_disabled.png
+SHA1-Digest: h7WRVGXetNEpiO7c3UjLMJjkhn4=
+
+Name: res/raw/nav_menu.json
+SHA1-Digest: I0DzmSc4013c+SLinuczD33etrY=
+
+Name: res/layout/iss_suggestion.xml
+SHA1-Digest: kzr7AVfksnIKbZwR7Y6LsM2a1bU=
+
+Name: res/drawable-xhdpi-v4/check_off_disabled_focused_holo_dark.png
+SHA1-Digest: Uttz51GFbB3sM/zMJwdnv57YDKQ=
+
+Name: res/drawable-xhdpi-v4/juspay_discover.png
+SHA1-Digest: S3VgVViUT5W2kYEJb+ZN/8eNOwk=
+
+Name: res/drawable/aal_deny_button.xml
+SHA1-Digest: RKh5BSWouWTbCg1IE6b6He4+ZRs=
+
+Name: res/drawable-xhdpi-v4/juspay_icici.png
+SHA1-Digest: ytW75+iuIXiXMSam7JrrMDXvMgM=
+
+Name: res/drawable-xhdpi-v4/btn_keyboard_key_normal.png
+SHA1-Digest: JmpYJx0p57PJuSZv5hRXLPBebu4=
+
+Name: res/drawable/orange_outline_sharp_corner.xml
+SHA1-Digest: VUsdwDNDYRqu623JRcv4NldA3+U=
+
+Name: assets/juspay/customAnimation/juspay_branding_animation6.png
+SHA1-Digest: 2lnU/OdSgBokP50DrVQbG4AcJs8=
+
+Name: res/drawable/btn_aui_silver_normal.xml
+SHA1-Digest: +Fz1JVfjfrLbyyC4CCWyT2ncf8k=
+
+Name: res/drawable/laptop.png
+SHA1-Digest: phH1FTG6qrvUryrAlgfo1ZiuHn4=
+
+Name: res/layout/seprator.xml
+SHA1-Digest: gv8/Jzx1NF6NfuNifvvKOaObutg=
+
+Name: amazon/communication/README.txt
+SHA1-Digest: W3Hm+oW97d6lribYSfLui+TmwBA=
+
+Name: res/drawable-xhdpi-v4/juspay_help_cards.png
+SHA1-Digest: vySbU1elCH5IigG5wV67XzoJF9U=
+
+Name: res/drawable/amzn_statsbar_icon.png
+SHA1-Digest: OdN/LOjjTgn0vxxAWmc8PEXb6TU=
+
+Name: res/layout/complete_url_activity.xml
+SHA1-Digest: uaNehbFGQWBptuThqlF0IamfNpk=
+
+Name: res/drawable-xhdpi-v4/juspay_boi.png
+SHA1-Digest: CQoCb2RHfQMUJDOt3D8Rqp8CJSs=
+
+Name: classes.dex
+SHA1-Digest: seYLL+9r/WSizA/RfRkpyhtW0n4=
+
+Name: res/drawable/btn_white_focused.xml
+SHA1-Digest: 44yTbWkapI7xEmUY8S1COf62BQg=
+

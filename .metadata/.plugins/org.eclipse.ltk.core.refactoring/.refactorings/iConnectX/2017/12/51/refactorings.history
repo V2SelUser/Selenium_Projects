@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;AutomationFramework&apos; to &apos;Test_Cases&apos;&#x0D;&#x0A;- Original project: &apos;iConnectX&apos;&#x0D;&#x0A;- Original element: &apos;iConnectX/src/AutomationFramework&apos;&#x0D;&#x0A;- Renamed element: &apos;iConnectX/src/Test_Cases&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;AutomationFramework&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;AutomationFramework" name="Test_Cases" qualified="false" references="true" stamp="1513869434023" textual="false" version="1.0"/>
+</session>

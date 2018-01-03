@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [webDriver]">
+  <test name="Test In FireFox(failed)">
+    <parameter name="AppURL" value="https://www.linkedin.com"/>
+    <classes>
+      <class name="iConnectX_Auto_Test.Login_Script">
+        <methods>
+          <include name="Login_To"/>
+          <include name="OpenApplication"/>
+          <include name="CloseApplication"/>
+        </methods>
+      </class> <!-- iConnectX_Auto_Test.Login_Script -->
+    </classes>
+  </test> <!-- Test In FireFox(failed) -->
+</suite> <!-- Failed suite [webDriver] -->

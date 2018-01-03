@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="webDriver">
+   <test name="Test In FireFox" >
+    <parameter name="AppURL" value="https://www.linkedin.com" />
+    <classes>
+     	<class name="iConnectX_Auto_Test.Login_Script" />
+      	<!-- <class name="iConnectX_Auto_Test.Seach_Jobs" /> -->               
+    </classes>
+  </test>   
+</suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="iConnectX_Test_Suit">
+  <test name="iCX_Automation_Test">
+  <classes>
+  		<class name = "iCX_TestCases.MainScript" />
+  </classes>
+  </test> <!-- iCX_Automation_Test -->
+</suite> <!-- iConnectX_Test_Suit -->
