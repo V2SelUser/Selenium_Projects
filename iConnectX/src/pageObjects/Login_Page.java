@@ -13,8 +13,7 @@ public class Login_Page {
 		return element;		
 	}	
 	
-	public static WebElement Txtbx_LoginUserId(WebDriver driver) {
-		
+	public static WebElement Txtbx_LoginUserId(WebDriver driver) {		
 		element = driver.findElement(By.xpath("//form[@id='user_form_login']//following::div[3]//child::input[contains(@class,'custom[email]') and @maxlength='35']"));
 		return element;
 	}
@@ -24,8 +23,7 @@ public class Login_Page {
 		return element;
 	}
 	
-	public static WebElement Btn_LoginSubmit(WebDriver driver) {
-		
+	public static WebElement Btn_LoginSubmit(WebDriver driver) {		
 		element = driver.findElement(By.id("logsubmit"));
 		return element;
 		
